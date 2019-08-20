@@ -15,7 +15,7 @@
  */
 
 extern crate env_logger;
-extern crate exonum_btc_anchoring;
+//extern crate exonum_btc_anchoring; // FIXME: uncomment when anchoring fixed ECR-3468
 extern crate exonum_configuration;
 extern crate exonum_time;
 extern crate java_bindings;
